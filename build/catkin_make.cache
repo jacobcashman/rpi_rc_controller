@@ -1,0 +1,2 @@
+rc_controller
+-DCATKIN_DEVEL_PREFIX=/nsl/rpi-pc-compression-main/devel -DCMAKE_INSTALL_PREFIX=/nsl/rpi-pc-compression-main/install -G Unix Makefiles
